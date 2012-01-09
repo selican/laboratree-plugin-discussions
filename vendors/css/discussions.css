@@ -1,0 +1,75 @@
+.x-grid3-td-posts {
+	text-align: center;
+}
+
+.discussion-holder {
+	position:relative;
+	border: 1px solid #0D6B0D;
+	background: #FFF;
+	width: 100%;
+}
+
+.discussion-header td {
+	background-color: #CFE1CF;
+}
+
+.discussion-title {
+	padding: 3px 0 1px 5px;
+	width: 70%;
+}
+
+.discussion-author {
+	padding: 3px 5px 1px 0;
+	text-align: right;
+	width: 30%;
+}
+
+.discussion-info td {
+	background-color: #CFE1CF;
+	border-bottom: 1px solid #0D6B0D;
+}
+
+.discussion-created {
+	padding: 1px 0 3px 5px;
+	width: 80%;
+}
+
+.discussion-actions {
+	padding: 1px 5px 3px 0;
+	text-align: right;
+	width: 20%;
+}
+
+.discussion-inner {
+	border-bottom: 1px solid #0D6B0D;
+	height: 100px;
+	padding: 5px;
+	vertical-align: top;
+}
+
+.discussion-form-header td {
+	background-color: #CFE1CF;
+	border-bottom: 1px solid #0D6B0D;
+	padding: 3px 5px;
+}
+
+.discussion-form-text {
+	padding: 5px;
+}
+
+.discussion-form-text textarea {
+	width: 99%;
+}
+
+.discussion-form-submit {
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+#discussion-reply label {
+	display: none;
+}
+
+#discussion-reply .x-form-element {
+	padding-left: 0px !important;
+}
